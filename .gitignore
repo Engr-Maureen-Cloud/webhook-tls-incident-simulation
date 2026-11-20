@@ -1,0 +1,6 @@
+certs/
+*.db
+*.log
+sent_events.csv
+__pycache__/
+.venv/
